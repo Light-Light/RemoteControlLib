@@ -1,0 +1,4 @@
+name: RemoteControlLib
+version: 1.0.0
+author: qing_guang
+main: com.qing_guang.RemoteControl.lib.main.Main
